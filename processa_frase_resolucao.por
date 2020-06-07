@@ -1,3 +1,13 @@
+/*
+Algoritmo: Com base em uma frase digitado pelo usuário:
+
+1) Converter a primeira letra de cada palavra para maiúscula e exibir o resultado
+2) Exibir a quantidade de vogais, consoantes e números presentes na frase
+3) Exibir a maior palavra da frase
+4) Exibir as palavras de tamanho par
+5) Identificar se a frase é um palindromo (lida de trás pra frente mantendo o significado original)
+*/
+
 programa
 {
 	inclua biblioteca Texto
